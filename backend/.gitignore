@@ -1,0 +1,11 @@
+# virtual environment
+.venv/
+
+
+# Python cache
+__pycache__/
+# all compiled python files
+*.py[cod]
+
+# environment variables
+.env
