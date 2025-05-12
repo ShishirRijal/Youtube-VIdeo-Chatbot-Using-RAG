@@ -33,8 +33,9 @@ This project is a **YouTube Video Question Answering Chatbot** powered by:
 > A full pipeline from `YouTube video ID` ➜ `Transcript` ➜ `Chunking & Embedding` ➜ `FAISS Indexing` ➜ `LLM-generated answers`
 
 
-![YoutubeChatBot](https://github.com/user-attachments/assets/bd506b33-560a-4dc7-acd6-008dce70b773)
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/bd506b33-560a-4dc7-acd6-008dce70b773" width="600px" alt="App Screenshot 1"/>
+</div>
 ---
 
 ## 🛠 Tech Stack
